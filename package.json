@@ -1,20 +1,14 @@
 {
   "dependencies": {
     "chrome-aws-lambda": "^10.1.0",
+    "proxy-chain": "^2.4.0",
+    "puppeteer": "^21.5.2",
     "puppeteer-core": "^10.4.0"
   },
   "name": "pptr-io",
   "description": "puppeteer as a service.",
   "version": "1.0.0",
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/choraria/pptr-io.git"
-  },
   "author": "choraria",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/choraria/pptr-io/issues"
-  },
-  "homepage": "https://github.com/choraria/pptr-io#readme"
+  "license": "MIT"
 }
